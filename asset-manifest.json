@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/idpowers-test/static/css/main.f210f4a3.css",
+    "main.js": "/idpowers-test/static/js/main.5d31ce54.js",
+    "static/js/787.0c3f432a.chunk.js": "/idpowers-test/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/idpowers-test/index.html",
+    "main.f210f4a3.css.map": "/idpowers-test/static/css/main.f210f4a3.css.map",
+    "main.5d31ce54.js.map": "/idpowers-test/static/js/main.5d31ce54.js.map",
+    "787.0c3f432a.chunk.js.map": "/idpowers-test/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f210f4a3.css",
+    "static/js/main.5d31ce54.js"
+  ]
+}
