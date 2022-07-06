@@ -1,11 +1,11 @@
 import './App.css';
 import CalcForm from "./components/calc-form/Calc-form";
 import Config from "./components/config/Config";
-import {BrowserRouter, Route, Routes} from "react-router-dom";
+import {HashRouter, Route, Routes} from "react-router-dom";
 
 const App = (props) => {
     return <>
-        <BrowserRouter>
+        <HashRouter>
             <div className="calc">
                 <div className="calc__container">
                     <h1 className="heading">Калькулятор займа под ПТС</h1>
@@ -21,7 +21,7 @@ const App = (props) => {
                     </Routes>
                 </div>
             </div>
-        </BrowserRouter>
+        </HashRouter>
     </>
 }
 
