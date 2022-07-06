@@ -1,0 +1,84 @@
+.payment__heading {
+    font-size: 24px;
+}
+
+.input-sum,
+.input-month{
+    width: 100%;
+}
+
+.placeholder-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 26px;
+}
+
+.sum,
+.month{
+    font-weight: 500;
+    font-size: 22px;
+    margin-bottom: 7px;
+}
+
+.content-tabs__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 12px;
+}
+
+.container-tabs {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.block-tabs {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 41px;
+    align-items: center;
+}
+
+.tabs {
+    padding: 15px;
+    text-align: center;
+    cursor: pointer;
+    z-index: 1;
+    outline: none;
+    background: #fff;
+    border: 2px solid #cbced2;
+    font-size: 16px;
+}
+
+.block-tabs :last-child {
+    margin-left: -2px;
+}
+
+.active-tabs {
+    background: white;
+    border: 2px solid #5ca64f;
+    z-index: 2;
+}
+
+.tabs-flex{
+    display: flex;
+}
+
+.content {
+    background: white;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.content-tabs h2 {
+    padding: 0px 0 5px 0px;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.active-content {
+    display: block;
+}

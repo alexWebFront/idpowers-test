@@ -1,0 +1,30 @@
+.config__button{
+    padding: 15px 80px;
+    width: 100%;
+}
+
+.config__items{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.config__item{
+    background: white;
+    border: 2px solid #cbced2;
+    padding: 5px 20px;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.config__item:not(:last-child){
+    margin-bottom: 10px;
+}
+
+.config__item:focus{
+    border: 2px solid #5ca64f;
+}
+.input-title{
+    margin-bottom: 5px;
+}

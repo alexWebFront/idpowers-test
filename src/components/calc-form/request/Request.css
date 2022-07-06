@@ -1,0 +1,21 @@
+.request__send {
+    padding: 15px 80px;
+}
+
+.config-button{
+    padding: 15px 10px;
+}
+
+.request__container {
+    padding: 0px 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.request__percent,
+.request__sum {
+    font-weight: 600;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
