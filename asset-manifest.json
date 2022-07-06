@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/idpowers-test/static/css/main.f210f4a3.css",
-    "main.js": "/idpowers-test/static/js/main.1ff2c805.js",
+    "main.js": "/idpowers-test/static/js/main.e63323f5.js",
     "static/js/787.0c3f432a.chunk.js": "/idpowers-test/static/js/787.0c3f432a.chunk.js",
     "index.html": "/idpowers-test/index.html",
     "main.f210f4a3.css.map": "/idpowers-test/static/css/main.f210f4a3.css.map",
-    "main.1ff2c805.js.map": "/idpowers-test/static/js/main.1ff2c805.js.map",
+    "main.e63323f5.js.map": "/idpowers-test/static/js/main.e63323f5.js.map",
     "787.0c3f432a.chunk.js.map": "/idpowers-test/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f210f4a3.css",
-    "static/js/main.1ff2c805.js"
+    "static/js/main.e63323f5.js"
   ]
 }
